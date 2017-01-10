@@ -1,0 +1,15 @@
+<div ng-show="loading" >
+    <div class="spinner-inner"  ng-style="loaderstyle" >
+        <div class="right-side">
+            <div class="bar-inner"></div>
+        </div>
+        <div class="left-side">
+            <div class="bar-inner"></div>
+        </div>
+
+    </div>
+    <h4 class="text-primary text-center">{{message}}</h4>
+</div>
+<div ng-transclude ng-hide="loading">
+
+</div>

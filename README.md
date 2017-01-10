@@ -1,3 +1,8 @@
+# Cancelado!
+Melhor criar um js que disponibilize ferramentas para auxiliar 
+no processo
+
+
 # HttpDb
 Mannage http and local storage objects and requests
 
@@ -13,6 +18,44 @@ entre os dois ambientes.
 ## Locais
 - base local: indexDB acessado pelo Dexie.js
 - http: servidor remoto 
+
+## Função de requisição
+
+Função responsável por retornar http
+
+
+### Estrutura:
+* run: função que realiza a requisição
+
+exemplo:
+```
+{
+    parans: "any parans you want"
+    run: function(callback){
+        $http.get('www.google.com.br').then(callback(data))
+    },
+    callback: function (data){console.log(data)}
+}
+
+function(){
+
+}
+function(callback,filter){
+    var filterStr='';
+    for (id in filter){
+        filterStr+=id+'='+filter[id]+'&';
+    }
+    
+    $.ajax({
+    url: "www.google.com.br?"+filterStr,
+        data: data,
+        success: callback, //depende da implementação do usuário
+        dataType: dataType
+    });
+
+    return null; //jquery dosent use promisses...
+}
+```
 
 ## Objeto de requisição
 
@@ -34,9 +77,15 @@ Alguns objetos de requisição precisam que outra requisição seja realizada pa
 
 
 ### Estrutura
-```
 
-```
+* name: Nome da requisição. Caso existam configurações 
+        cadastradas para esta requisição, estas serão usadas
+* filter: objeto com nome dos filtros e seus valores
+* request: função responsável por realizar a requisição
+  * retorno: a função deve retorna um objeto seguindo as especificações da estrutura de função de requisição 
+* callback: função a ser chamada após a conclusão da requisição
+
+
 
 ## Validade 
 

@@ -1,0 +1,15 @@
+<div class="portlet message {{class}}" ng-show="show==true">
+    <div class="portlet-heading">
+        <h3 class="portlet-title"><i ng-show="icon!=undefined" class="{{icon}}  icon-alert"></i> {{title}}</h3>
+        <div class="portlet-widgets">
+            <a ng-click="show=false;"><i style="cursor:pointer !important" class="md md-close"></i></a>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+
+    <div ng-show="message!=undefined" class="panel-collapse collapse in">
+        <div class="portlet-body {{class}}">
+            {{message}}
+        </div>
+    </div>
+</div>
