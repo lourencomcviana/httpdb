@@ -23,3 +23,7 @@ A função possui dois comportamentos, onde:
 
 ## Dependências
 - Dexie.js
+- TypeScript
+  - npm install -g typescript
+- [yeoman](http://yeoman.io/learning/index.html) npm install -g yo
+- [node-npm-scaffold](https://www.npmjs.com/package/node-app-scaffold)

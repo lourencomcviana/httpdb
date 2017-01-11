@@ -1,0 +1,30 @@
+{
+  "name": "httpdb",
+  "version": "1.0.0",
+  "description": "server for testing httpdb",
+  "main": "nodeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lourencomcviana/httpdb.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "lourenço viana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lourencomcviana/httpdb/issues"
+  },
+  "homepage": "https://github.com/lourencomcviana/httpdb#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4",
+    "nedb": "^1.8.0",
+    "typescript": "^2.1.4"
+  }
+}
