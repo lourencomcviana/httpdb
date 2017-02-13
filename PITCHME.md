@@ -68,9 +68,10 @@ lista gerada em 13/02/2017:
     Total |  | 4107
 #HSLIDE
 #### testeeeeeeeeeeeeeeeeee
-teste | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
------ | -------------------------| ------ 
-1     | 128                      | 11 
+TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
+---------------------- | -------------------------| ------ 
+1 | 128 | 11
+1 | 127 | 125
 
 
 #HSLIDE
