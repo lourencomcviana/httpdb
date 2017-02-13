@@ -30,7 +30,7 @@ da rotina. Desta forma haveria a necessidade de realizar
 previamente a amortização de todos os parcelamentos realizados
 nos parcelamentos em curso. que hoje totalizam em 4107.
 
-#HSLIDE
+#VSLIDE
 Tabém seria necessário udar a forma de distribuição dos créditos 
 oriundos dos pagamentos efetuados,que hoje é realizado percentualmente 
 ara uma abordagem que seria imputado a partir damulta seguindo do juros
@@ -41,7 +41,7 @@ parcelamentos legados não possuem amortização (necessário atualiza-los)
 
 lista gerada em 13/02/2017: 
 
-
+#VSLIDE
 TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
 ---------------------- | -------------------------| ------ 
 1 | 128 | 11
