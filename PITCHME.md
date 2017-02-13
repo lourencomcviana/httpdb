@@ -52,6 +52,10 @@ TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
 2 | 137 | 551
 2 | 149 | 45
 5 | 137 | 67
+
+#VSLIDE
+TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
+---------------------- | -------------------------| ------ 
 9 | 126 | 3
 9 | 138 | 3
 9 | 137 | 1
@@ -60,6 +64,10 @@ TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
 17 | 116 | 425
 17 | 117 | 80
 19 | 156 | 2
+
+#VSLIDE
+TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
+---------------------- | -------------------------| ------ 
 19 | 116 | 745
 19 | 129 | 49
 19 | 127 | 46
