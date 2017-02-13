@@ -41,6 +41,7 @@ parcelamentos legados não possuem amortização (necessário atualiza-los)
 
 lista gerada em 13/02/2017: 
 
+#HSLIDE
 TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
 ---------------------- | -------------------------| ------ 
 1 | 128 | 11
@@ -66,7 +67,6 @@ TFI_Tipo_FINANCIAMENTO | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
 19 | 117 | 41
 19 | 126 | 131
 Total |  | 4107
-
 
 
 #HSLIDE
