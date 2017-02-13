@@ -66,6 +66,13 @@ lista gerada em 13/02/2017:
     19 | 117 | 41 |
     19 | 126 | 131 |
     Total |  | 4107  |
+#SLIDE
+
+teste | TFI_TIC_TIM_COD_IMPUESTO | TOTAL
+----- | -------------------------| ------ 
+1     | 128                      | 11 
+
+
 #HSLIDE
 ### Estrutura de dados
 A nova rotina faz uso de novas estruturas de dados. Vinculadas ao novo
