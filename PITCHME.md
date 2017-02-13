@@ -2,9 +2,6 @@
 # Análise de modificação do procedimento de rescisão
 #HSLIDE
 ## Pontos afetados
-
-em primeira analise (passível de alteração caso novos objetos sejam encontrados durante o desenvolvimento)
-
   1. taxpaoc.pkg_parcelamento.stp_revogar_anistia
       Mais complexo (1632 linhas)
   2. taxpaoc.pkg_parcelamento.stp_revogar_da
@@ -33,7 +30,7 @@ da rotina. Desta forma haveria a necessidade de realizar
 previamente a amortização de todos os parcelamentos realizados
 nos parcelamentos em curso. que hoje totalizam em 4107.
 
-
+#HSLIDE
 Tabém seria necessário udar a forma de distribuição dos créditos 
 oriundos dos pagamentos efetuados,que hoje é realizado percentualmente 
 ara uma abordagem que seria imputado a partir damulta seguindo do juros
