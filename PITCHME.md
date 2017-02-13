@@ -94,10 +94,9 @@ Algo indesejável.
 - Na rotina da revogação de parcelamentos em divida ativa
   - as etapas lançadas são diferentes.
 #HSLIDE
-### Conclusão
+# Conclusão
 Tantas modificações no parcelamento antigo acarretam o risco de inconsistências
 e o risco de futuras adpações nos mesmos. Incluindo adequar outras normais de novas instruções normativas.
-#HSLIDE
 ## Prazos
 
 Estimado: 1 mês e meio.
